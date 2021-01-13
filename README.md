@@ -40,8 +40,11 @@ Give some style to your component
 <style>
 component[name=view-stack]{
   border: 1px solid black;
-   width: 200px; height: 200px;
-   position:absolute;
+   width: 200px;
+   height: 200px;
+   position: relative;
+   display: block;
+   padding: 0;
 }
 </style>
 ```
@@ -57,8 +60,11 @@ component[name=view-stack]{
 <style>
 component[name=view-stack]{
   border: 1px solid black;
-   width: 200px; height: 200px;
-   position:absolute;
+   width: 200px;
+   height: 200px;
+   position: relative;
+   display: block;
+   padding: 0;
 }
 </style>
 <h1>This is a view stack example</h1>
