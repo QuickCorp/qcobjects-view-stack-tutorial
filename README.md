@@ -75,4 +75,4 @@ component[name=view-stack]{
 </body>
 ```
 
-See the file index.html for a complete example
+See the file [index.html](https://quickcorp.github.io/qcobjects-view-stack-tutorial/index.html) for a complete example
